@@ -1,0 +1,24 @@
+{
+  "name": "ex-js-async-chef",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/fedeatzeni/ex-js-async-chef#readme",
+  "bugs": {
+    "url": "https://github.com/fedeatzeni/ex-js-async-chef/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedeatzeni/ex-js-async-chef.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node --watch script.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13"
+  }
+}
